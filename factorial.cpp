@@ -2,7 +2,7 @@
  *Ingeniería en Electrónica y Telecomunicaciones
  *Lógica y Programación
  * Víctor Manuel Alejandro Santillán Sánchez
- *F0ayy77yhhctorial
+ *Factorial
  */
 
 #include <iostream>
